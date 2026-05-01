@@ -68,6 +68,7 @@ python translator.py
 
 Screenshots:
 <img width="945" height="721" alt="Screenshot 2026-05-02 001141" src="https://github.com/user-attachments/assets/ef2cd761-ed53-417e-af99-a157f18461cc" />
+
 <img width="947" height="721" alt="image" src="https://github.com/user-attachments/assets/d6f1f2ab-5ed1-4652-b129-ad9e7bb4af51" />
 
 
