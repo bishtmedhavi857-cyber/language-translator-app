@@ -1,0 +1,98 @@
+Language Translator App
+
+It is a modern Python-based GUI application that translates text between multiple languages with voice input and text-to-speech output support.
+
+
+ Features:
+
+-  Multi-language Translation using Google Translate API
+-  Voice Input (Speech Recognition)
+-  Text-to-Speech Output
+-  Automatic Language Detection
+-  Translation History (last 5 entries)
+-  Copy to Clipboard Functionality
+-  Clear Input/Output Option
+-  Simple and user-friendly GUI built with CustomTkinter
+
+
+
+ Tech Stack:
+
+- Python
+- CustomTkinter (GUI)
+- googletrans
+- SpeechRecognition
+- pyttsx3
+- gTTS (Google Text-to-Speech)
+- playsound
+- indic-transliteration
+
+
+
+ Project Structure:
+
+language-translator-app/
+│── translator.py
+│── requirements.txt
+│── README.md
+
+
+
+ Installation & Setup:
+
+1️- Clone the Repository
+
+git clone https://github.com/your-username/language-translator-app.git
+cd language-translator-app
+
+2️- Install Dependencies
+
+pip install -r requirements.txt
+
+3️- Run the Application
+
+python translator.py
+
+
+
+ How It Works:
+
+1. Enter text in the input box OR use 🎤 voice input
+2. Select the target language from dropdown
+3. Click Translate
+4. View translated text along with pronunciation
+5. Use 🔊 to listen to translation
+6. Access last 5 translations in history
+
+
+Notes:
+
+- Internet connection is required for translation and speech recognition
+- Ensure microphone access is enabled for voice input
+- Install PyAudio manually if voice input doesn’t work
+
+
+
+Requirements:
+
+customtkinter
+googletrans==4.0.0-rc1
+SpeechRecognition
+pyttsx3
+indic-transliteration
+gTTS
+playsound
+pyaudio
+
+
+
+Teamm Spartan
+  Members:
+      Medhavi Bisht (Leader)
+      Devyanshi Sah
+      Sneha Pal
+
+
+---
+
+⭐ If you like this project, consider giving it a star!
