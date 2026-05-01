@@ -1,0 +1,8 @@
+customtkinter
+googletrans==4.0.0-rc1
+SpeechRecognition
+pyttsx3
+indic-transliteration
+gTTS
+playsound
+pyaudio
